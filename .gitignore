@@ -1,0 +1,8 @@
+logs/
+cache/
+*.log
+*.tmp
+*.lck
+crash-reports/
+usercache.json
+usernamecache.json
