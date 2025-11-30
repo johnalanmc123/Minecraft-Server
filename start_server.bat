@@ -12,7 +12,7 @@ echo ===============================
 echo Type "stop" in the console to close server properly.
 echo ===============================
 
-java -Xmx4G -Xms4G -jar server.jar nogui
+java -Xmx6G -Xms6G -jar server.jar nogui
 
 echo.
 echo Server has stopped. Closing script...
